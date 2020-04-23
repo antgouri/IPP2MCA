@@ -1,0 +1,17 @@
+There are 3 + 1 modes in python language wrt files
+
+read - r
+write - w
+append - a
+
+Special mode
+
+r+ (read and write)
+
+rb+ / wb+
+
+read from a binary file
+
+write to a binary file
+
+Read - 
